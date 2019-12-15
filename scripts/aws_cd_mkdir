@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -rf /apps/tmp_web
-mkdir -p /apps/tmp_web
+sudo rm -rf /apps/tmp_web
+sudo mkdir -p /apps/tmp_web
